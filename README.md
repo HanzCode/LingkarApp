@@ -1,8 +1,8 @@
 ﻿# LingkarApp
 
 ![Screenshot 2024-01-12 225412](https://github.com/HanzCode/LingkarApp/assets/120073752/58902044-1784-4291-a717-bc9ad3149deb)
-LingkarApp, Describe the tangle of circles in life
 
+LingkarApp, Describe the tangle of circles in life
 
 In every trajectory of life, we often feel trapped in a tangled circle. Lingkar App comes as a solution in helping individuals decipher and understand the complexities of their lives.
 
