@@ -1,6 +1,5 @@
 ﻿# LingkarApp
 
-![Screenshot 2024-01-12 225412](https://github.com/HanzCode/LingkarApp/assets/120073752/58902044-1784-4291-a717-bc9ad3149deb)
 ![HackMinds Squad_Lingkar App_Hipster Stage 2 b](https://github.com/HanzCode/LingkarApp/assets/120073752/e8515a9c-aa2c-4bca-9323-82f97a6213d6)
 ![thumbnail lingkar app](https://github.com/HanzCode/LingkarApp/assets/120073752/42138fee-48e1-4642-95bc-5eaf61fe7449)
 ![HackMinds Squad_Lingkar App_Hipster Stage 3](https://github.com/HanzCode/LingkarApp/assets/120073752/50ac929d-778c-4052-bc9b-1e7130877889)
