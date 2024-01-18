@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LingkarApps</string>
+    <string name="analisis_diri">Analisis Diri</string>
+    <string name="aspek_kecemasan">Aspek Kecemasan</string>
+    <string name="lanjutkan">Lanjutkan</string>
+    <string name="desc">Selamat datang di fitur Analisis Diri aplikasi kesehatan mental kami! Fitur ini dirancang untuk membantu kamu memahami dan mengidentifikasi tingkat kecemasan. Sebelum memulai, harap perhatikan panduan berikut:</string>
+    <string name="desc_self">Mohon jawab pertanyaan dengan jujur untuk hasil analisis yang lebih akurat. Hasilnya akan sangat bergantung pada jawaban yang kamu berikan.</string>
+
+</resources>

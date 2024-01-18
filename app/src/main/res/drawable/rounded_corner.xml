@@ -1,0 +1,5 @@
+<!-- rounded_button.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#1E1E1E" /> <!-- Ganti dengan warna yang diinginkan -->
+    <corners android:radius="50dp" /> <!-- Ganti dengan radius yang diinginkan -->
+</shape>
